@@ -16,6 +16,10 @@
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kardashev-0x&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"/>
+  <br>
+  Help maintain the project by contributing an amount
+  <h3>Monero</h3>
+  43fCtXH6FCb92GX32GE414AXt1SEniPjHeNWDcFrFXkEScf1aPxkSt87qtSWYfAQeVbhwrtaaEecwfjANb7jswSBD7rypNw
 </div>
 <br>
 <br>
