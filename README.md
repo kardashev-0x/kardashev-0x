@@ -19,7 +19,7 @@
   <br>
   Help maintain the project by contributing an amount
   <h3>Monero</h3>
-  43fCtXH6FCb92GX32GE414AXt1SEniPjHeNWDcFrFXkEScf1aPxkSt87qtSWYfAQeVbhwrtaaEecwfjANb7jswSBD7rypNw
+  <code>43fCtXH6FCb92GX32GE414AXt1SEniPjHeNWDcFrFXkEScf1aPxkSt87qtSWYfAQeVbhwrtaaEecwfjANb7jswSBD7rypNw</code>
 </div>
 <br>
 <br>
